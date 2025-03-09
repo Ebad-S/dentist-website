@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#203031",
+        "titleBar.activeBackground": "#2D4445",
+        "titleBar.activeForeground": "#F9FBFB"
+    },
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "html",
+        "typescript": "javascript",
+        "typescriptreact": "javascript"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    }
+}
